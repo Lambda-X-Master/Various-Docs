@@ -4,7 +4,7 @@
 
 -   As a developer adding tasks to Trello, you should always look at the tasks from the lens of the end user.
 
-    _Example:_ As a user I want to see a landing page that has replaces all Lorem Ipsum placeholder text with actual text that explains what this app does.
+    _Example:_ As a user I want to see a landing page that has replaces all Lorem Ipsum placeholder text replaced with actual text that explains what this app does.
 
 ## Keeps Tasks Small
 
