@@ -15,14 +15,14 @@
     ### _Good Example:_
 
     -   As a developer I need initial node/express boiler plate setup and pass a sanity check in postman
-    -   As a user I need to implement knex and setup a knexfile in the root of the app
+    -   As a developer I need to implement knex and setup a knexfile in the root of the app
     -   As a developer I need to write the migrations for the database.
 
         _Checklist:_
 
         -   [ ] Table one
         -   [ ] Table two
-        -   [ ] Table Three
+        -   [ ] Table three
         -   [ ] Table four
 
     -   As a developer I need to write endpoints so the client can access the API.
@@ -31,5 +31,5 @@
 
         -   [ ] Endpoint one
         -   [ ] Endpoint two
-        -   [ ] Endpoint Three
+        -   [ ] Endpoint three
         -   [ ] Endpoint four
