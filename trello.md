@@ -20,16 +20,16 @@
 
         _Checklist:_
 
-        -   Table one
-        -   Table two
-        -   Table Three
-        -   Table four
+        -   [ ] Table one
+        -   [ ] Table two
+        -   [ ] Table Three
+        -   [ ] Table four
 
     -   As a developer I need to write endpoints so the client can access the API.
 
         _Checklist:_
 
-        -   Endpoint one
-        -   Endpoint two
-        -   Endpoint Three
-        -   Endpoint four
+        -   [ ] Endpoint one
+        -   [ ] Endpoint two
+        -   [ ] Endpoint Three
+        -   [ ] Endpoint four
