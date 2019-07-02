@@ -10,9 +10,9 @@
 
 -   User stories should be broken down into granular tasks that can generally be done in a day or less.
 
-    _Bad example:_ As a user I want my app to have a backend.
+    ### _Bad example:_ As a user I want my app to have a backend.
 
-    ### _Break it down:_
+    ### _Good Example:_
 
     -   As a developer I need initial node/express boiler plate setup and pass a sanity check in postman
     -   As a user I need to implement knex and setup a knexfile in the root of the app
