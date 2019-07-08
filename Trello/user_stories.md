@@ -18,7 +18,9 @@ _Example:_ `As a` potential customer, `I want` to see a landing page that has re
 
 ### User stories should be broken down into granular tasks that can generally be done in a day or less.
 
-_Bad example:_ As a user I want my app to have a backend so that I have an API for the front end.
+### _Bad example:_
+
+-   As a user I want my app to have a backend so that I have an API for the front end.
 
 ### _Good Example:_
 
