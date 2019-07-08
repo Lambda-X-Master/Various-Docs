@@ -2,7 +2,7 @@
 
 **`Important:` At any given time, manager should be able to tell exactly what every member of the team is currently working on in your project by looking at your Trello Board.**
 
-## As a developer adding tasks to Trello, you should always look at the tasks from the lens of the end user. Add `all` of your user stories to the backlog column `before you start to write any code.` Each user story should be `1 to 2 days of work` max.
+As a developer adding tasks to Trello, you should always look at the tasks from the lens of the end user. Add `all` of your user stories to the backlog column `before you start to write any code.` Each user story should be `1 to 2 days of work` max.
 
 **User story template:**
 
