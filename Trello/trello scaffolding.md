@@ -8,11 +8,7 @@
 
 <div align="center"><img src='./images/create_a_team.png'></div>
 
-📌 Navigate to the [Labs Trello Scaffolding](https://trello.com/b/R2AF3FY0/build-week-scaffolding), and clone it.
-
-<div align="center"><img src='./images/show_menu.png'></div>
-
-📌 Click on _show Menu_
+📌 Navigate to the [Labs Trello Scaffolding](https://trello.com/b/R2AF3FY0/build-week-scaffolding), and clone it. Start by clicking on `show menu` at the top right of the page.
 
 <div align="center"><img src='./images/show_menu.png'></div>
 
