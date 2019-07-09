@@ -41,13 +41,13 @@ Motivation takes the `"so that"` one step further. It should be 1 - 3 sentences.
 
 `note:` Markdown can be used in Trello. The two hashtags make a heading.
 
-<div align="center"><img src='./images/motivation.png'></div>
+<div align="center"><img src='https://tk-assets.lambdaschool.com/0f48a07f-cc75-433f-9e5e-58ed2fde645f_motivation.png'></div>
 
 ## Finish Line
 
 Finish line sets a 100% clear standard for the developer working on the task to know they are done and the card can be moved to the `ready for code review` column.
 
-<div align="center"><img src='./images/finish_line.png'></div>
+<div align="center"><img src='https://tk-assets.lambdaschool.com/60d6ec1c-d97f-4f75-8e88-f9b2b0721fb5_finish_line.png'></div>
 
 ## Other guidelines
 
